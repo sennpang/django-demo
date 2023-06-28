@@ -82,7 +82,7 @@ DATABASES = {
         # 'NAME': BASE_DIR / 'db.sqlite3',
         "NAME": "django",
         "USER": "root",
-        "PASSWORD": "ai673262625",
+        "PASSWORD": "",
         "HOST": "127.0.0.1",
         "PORT": "3306",
     }
